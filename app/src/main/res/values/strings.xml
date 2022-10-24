@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP_Rifas</string>
+    <string name="inputName">Nombre:</string>
+    <string name="inputLastName">Apellido:</string>
+    <string name="inputRaffleNumber">Número de rifa:</string>
+    <string name="textErrorInput">Este campo es obligatorio</string>
+    <string name="text_error">Algo a salido mal, intentelo nuevamente por favor.</string>
+    <string name="title_error">Ocurrio un problema</string>
+    <string name="text_alert_dialog_repeated_number">Este número ya ha sido elegido, por favor elige otro número</string>
+    <string name="title_alert_dialog">Ha ocurrio un problema</string>
+    <string name="text_alert_dialog_error_liimit">Por favor, elige un nuúmero entre el 0 y el 999</string>
+    <string name="succes_message_title">Felicitaciones</string>
+</resources>
