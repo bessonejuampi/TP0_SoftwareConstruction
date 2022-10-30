@@ -1,5 +1,6 @@
 package com.utn.tp_rifas.common
 
+
 fun String?.isNumber(): Boolean {
     return if (this.isNullOrEmpty()) {
         false

@@ -25,7 +25,9 @@ class RaffleActivity : AppCompatActivity() {
             raffleViewModel!!.validateInputs(
                 binding.etName.text.toString(),
                 binding.etLastName.text.toString(),
-                binding.etRaffleNumber.text.toString()
+                binding.etRaffleNumber.text.toString(),
+                binding.etFechaDeCompra.text.toString(),
+                binding.etHoraDeCompra.text.toString()
             )
         }
 

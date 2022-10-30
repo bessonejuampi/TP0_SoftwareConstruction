@@ -1,0 +1,16 @@
+[
+  {
+    "nombre":"juan",
+    "apellido":"bessone",
+    "numero_rifa":"12",
+    "fecha_de_compra":"10/07/2022",
+    "hora_de_compra":"12:00"
+  },
+  {
+    "nombre":"lautaro",
+    "apellido":"gomez",
+    "numero_rifa":"13",
+    "fecha_de_compra":"10/07/2022",
+    "hora_de_compra":"12:00"
+  }
+]

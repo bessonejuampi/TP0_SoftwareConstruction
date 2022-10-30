@@ -10,4 +10,8 @@
     <string name="title_alert_dialog">Ha ocurrio un problema</string>
     <string name="text_alert_dialog_error_liimit">Por favor, elige un nuúmero entre el 0 y el 999</string>
     <string name="succes_message_title">Felicitaciones</string>
+    <string name="text_input_fecha_de_compra">Fecha de compra</string>
+    <string name="text_input_hora_de_compra">Hora de compra</string>
+    <string name="text_error_input_fecha_de_compra">Fecha invalida</string>
+    <string name="text_toast_fecha_invalida">Formarto de fecha incorrecto</string>
 </resources>
